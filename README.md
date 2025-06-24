@@ -1,1 +1,1 @@
-# weight-converter.github.io
+# Weight-converter project
